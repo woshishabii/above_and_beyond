@@ -19,10 +19,6 @@
             "plugin": "daycount_nbt",
             "entry": "get_day_text"
         },
-        "server_list": {
-            "$§l子服1": "server1",
-            "§a子服2": "server2"
-        },
         "json": {
             "preload": true
         },
