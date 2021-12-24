@@ -1,6 +1,6 @@
 {
-    "restart_permission": 1,
-    "get_op_permission": 3,
+    "restart_permission": 2,
+    "get_op_permission": 4,
     "auto_op": false,
     "manual_list": [],
     "restart_need_confirm": true,

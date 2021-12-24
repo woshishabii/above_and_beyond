@@ -2,7 +2,16 @@
     "title": "TaskManager",
     "done": false,
     "description": "",
-    "sub_tasks": [],
+    "sub_tasks": [
+        {
+            "title": "完成服务包",
+            "done": true,
+            "description": "",
+            "sub_tasks": [],
+            "deadline": 0,
+            "permission": 0
+        }
+    ],
     "deadline": 0,
     "permission": 0
 }

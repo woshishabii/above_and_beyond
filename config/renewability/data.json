@@ -1,4 +1,9 @@
 {
     "version": "1.1.0",
-    "players_data": {}
+    "players_data": {
+        "woshishabi": {
+            "last_cloning_day": "2021-12-25",
+            "cloning_counter": 1
+        }
+    }
 }

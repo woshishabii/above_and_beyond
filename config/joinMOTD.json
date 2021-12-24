@@ -1,9 +1,8 @@
 {
-    "serverName": "Survival Server",
-    "mainServerName": "My Server",
+    "serverName": "Nano Mod Server",
+    "mainServerName": "Mod Server",
     "serverList": [
-        "survival",
-        "lobby"
+        "survival"
     ],
     "start_day": null,
     "daycount_plugin_ids": [

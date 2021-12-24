@@ -1,5 +1,5 @@
 {
-    "max_daily_items_cloned": 1,
+    "max_daily_items_cloned": 64,
     "allowed_items_list": [
         "minecraft:elytra",
         "minecraft:enchanted_golden_apple",

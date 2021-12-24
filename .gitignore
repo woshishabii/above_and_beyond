@@ -6,3 +6,5 @@ server/ops.json
 server/banned-ips.json
 server/banned-players.json
 qb_multi
+config/task/mc_task.json
+server/usernamecache.json

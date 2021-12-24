@@ -15,7 +15,7 @@
         "world"
     ],
     "minimum_permission_level": {
-        "make": 1,
+        "make": 2,
         "back": 2,
         "del": 2,
         "confirm": 1,
