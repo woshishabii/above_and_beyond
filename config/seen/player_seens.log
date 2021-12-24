@@ -2,3 +2,6 @@
 [MCDR] [2021-12-25 00:08:52] [TaskExecutor/INFO]: 配置文件已加载
 [MCDR] [2021-12-25 00:30:32] [Seen_PlayerJoin/INFO]: Player woshishabi joined the game
 [MCDR] [2021-12-25 01:03:07] [Seen_PlayerLeft/INFO]: Player woshishabi left the game
+[MCDR] [2021-12-25 01:12:19] [Seen_PlayerJoin/INFO]: Player woshishabi joined the game
+[MCDR] [2021-12-25 01:17:46] [mcd_seen_DataCorrect/INFO]: Corrected player woshishabi status to offline
+[MCDR] [2021-12-25 01:17:46] [Seen_PlayerLeft/INFO]: Player woshishabi left the game

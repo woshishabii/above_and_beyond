@@ -1,0 +1,9 @@
+LoliServer:
+  check_libraries: true
+  forge_ignore_optional_mods_version_check: false
+  chunk_unload_delay: 5
+  optimize_explosions: true
+  prevent_from_entering_unloaded_chunks: true
+  ignore_empty_time: all_worlds
+  disable_packet_debug: true
+  allow_sand_duping: false
