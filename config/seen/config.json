@@ -1,0 +1,7 @@
+{
+    "seen_top_max": 10,
+    "player_prior_in_merge": true,
+    "log_seens": true,
+    "identify_bot": true,
+    "bot_list_delay": 0.3
+}

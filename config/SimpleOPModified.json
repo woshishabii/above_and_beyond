@@ -1,0 +1,8 @@
+{
+    "restart_permission": 1,
+    "get_op_permission": 3,
+    "auto_op": false,
+    "manual_list": [],
+    "restart_need_confirm": true,
+    "restart_countdown": 5
+}

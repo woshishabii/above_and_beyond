@@ -1,0 +1,7 @@
+{
+    "hitokoto": {
+        "prefix": "[§a一言§r]",
+        "addr": "https://v1.hitokoto.cn",
+        "path": "hitokoto"
+    }
+}

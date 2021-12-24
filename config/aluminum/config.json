@@ -1,0 +1,10 @@
+{
+    "command_prefix": [
+        "al",
+        "aluminum"
+    ],
+    "cache_timeout": 1800,
+    "check_update": 1800,
+    "use_meta_cdn": true,
+    "use_release_cdn": true
+}

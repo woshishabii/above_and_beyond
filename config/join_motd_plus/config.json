@@ -1,0 +1,36 @@
+{
+    "permission": {
+        "motd": 0,
+        "reload": 3,
+        "server": 0
+    },
+    "display_list": [
+        "motd",
+        "day",
+        "",
+        "json:hitokoto",
+        "random:random.txt",
+        "[自定义文本] 这是一段没卵用的垃圾话。",
+        "",
+        "server_list"
+    ],
+    "module_settings": {
+        "motd": {
+            "text": "§e§l$player§r, 欢迎回到§b服务器§r!"
+        },
+        "day": {
+            "plugin": "daycount_nbt",
+            "entry": "get_day_text"
+        },
+        "server_list": {
+            "$§l子服1": "server1",
+            "§a子服2": "server2"
+        },
+        "json": {
+            "preload": true
+        },
+        "random": {
+            "prefix": "[§b随机文本§r]"
+        }
+    }
+}

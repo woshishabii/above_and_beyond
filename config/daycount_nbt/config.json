@@ -1,0 +1,6 @@
+{
+    "nbt_mode": true,
+    "nbt_file": "server/world/level.dat",
+    "start_date": "2021-01-01",
+    "day_text": "这是服务器开服的第 $day 天"
+}

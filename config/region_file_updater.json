@@ -1,0 +1,10 @@
+{
+    "enabled": true,
+    "source_world_directory": "./qb_multi/slot1/world",
+    "destination_world_directory": "./server/world",
+    "dimension_region_folder": {
+        "-1": "DIM-1/region",
+        "0": "region",
+        "1": "DIM1/region"
+    }
+}
